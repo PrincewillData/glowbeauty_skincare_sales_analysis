@@ -1,4 +1,5 @@
 # GlowBeauty Skincare Sales Analysis
+![Executive Dashboard](Dashboard_Images/PowerBI_Executive_Dashboard.png)
 
 ## Project Overview
 
