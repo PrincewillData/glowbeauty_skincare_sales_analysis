@@ -132,7 +132,7 @@ PowerBI_Dashboard/
 
 This project was developed as part of my Data Analytics portfolio to demonstrate practical business intelligence skills using Excel and Power BI.
 
-Connect with me on LinkedIn for more analytics projects and insights @Princewill_Data                     
+Connect with me on LinkedIn for more analytics projects and insights @ Princewill SunnyOtalor                     
 ---
 **Created by Princewill_Data**
 
